@@ -32,7 +32,6 @@ class BMI():
         data += f"您的體重:{self.status()}\n"
         return data
     
-
 name = input("請輸入姓名: ")
 height = pyip.inputFloat("請輸入身高(cm): ", min=1)
 weight = pyip.inputFloat("請輸入體重(kg): ", min=1)
