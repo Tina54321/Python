@@ -1,2 +1,6 @@
 flask
 gunicorn
+google-generativeai
+python-dotenv
+line-bot-sdk
+requests
